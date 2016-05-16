@@ -13,7 +13,7 @@ For example:
 `scrapy crawl ebaySpider -a url=http://www.ebay.com/itm/Lincoln-Town-Car-Designer-Series-Sedan-4-Door-/121773830334`
 
 ## Requirements
-To run this program, you need:
+To run this program, you will need:
 
 * Python 2.7
 * Scrapy 0.24.6 
